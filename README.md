@@ -1,6 +1,6 @@
 <h1 align="center">Voi Network</h1>
 
-> Adım adım gittiğiniz taktirde `sorunsuz` bir kurulum olacaktır.
+> Adım adım gittiğiniz taktirde `sorunsuz` bir kurulum olacaktır...
 
 > Ayrıca kod blokları arasında bıraktığım `notları` okumanız `SORUNSUZ` kurulum yapmanıza neden olacak.
 
